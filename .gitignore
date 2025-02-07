@@ -1,2 +1,5 @@
 SAMD21_Dev_Board-backups/
 ~*
+*.csv
+*.zip
+
