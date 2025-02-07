@@ -9044,16 +9044,6 @@
 	)
 	(wire
 		(pts
-			(xy 132.08 196.85) (xy 132.08 203.2)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "c00c1ea9-1db3-4ab3-a0c8-fe39109f2fb4")
-	)
-	(wire
-		(pts
 			(xy 143.51 111.76) (xy 160.02 111.76)
 		)
 		(stroke
@@ -9944,16 +9934,6 @@
 	)
 	(wire
 		(pts
-			(xy 132.08 205.74) (xy 132.08 214.63)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "fe35f9d7-f676-4636-9074-7c335afe33b6")
-	)
-	(wire
-		(pts
 			(xy 104.14 200.66) (xy 106.68 200.66)
 		)
 		(stroke
@@ -9996,7 +9976,7 @@
 	)
 	(rectangle
 		(start 15.24 189.23)
-		(end 156.21 222.25)
+		(end 129.54 222.25)
 		(stroke
 			(width 0)
 			(type dash)
@@ -12736,94 +12716,6 @@
 		)
 	)
 	(symbol
-		(lib_id "Connector:Screw_Terminal_01x02")
-		(at 137.16 203.2 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "06f99ca6-968b-461a-b5ef-9e22576d5dc7")
-		(property "Reference" "J18"
-			(at 139.7 203.2 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "Screw_Terminal"
-			(at 139.7 205.74 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "TerminalBlock_4Ucon:TerminalBlock_4Ucon_1x02_P3.50mm_Horizontal"
-			(at 137.16 203.2 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 137.16 203.2 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 137.16 203.2 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "MPN" "C695629"
-			(at 137.16 203.2 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Feeder" ""
-			(at 137.16 203.2 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "b0622637-da65-4699-9915-5369b1586158")
-		)
-		(pin "2"
-			(uuid "07776ff9-7416-4553-aaf6-f4a63d0f9528")
-		)
-		(instances
-			(project "SAMD21_Dev_Board"
-				(path "/1a1c72da-99f5-4976-b608-38ee505f2b67"
-					(reference "J18")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "Device:C")
 		(at 271.78 238.76 0)
 		(unit 1)
@@ -14560,72 +14452,6 @@
 			(project "SAMD21_Dev_Board"
 				(path "/1a1c72da-99f5-4976-b608-38ee505f2b67"
 					(reference "#PWR037")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "power:VDC")
-		(at 132.08 196.85 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "2bc37373-7a28-432e-b72a-a039851e1fa9")
-		(property "Reference" "#PWR052"
-			(at 132.08 199.39 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "VDC"
-			(at 132.08 191.77 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 132.08 196.85 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 132.08 196.85 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"VDC\""
-			(at 132.08 196.85 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "03d90daf-5b0d-4542-b4ff-269c5c7cfc28")
-		)
-		(instances
-			(project "SAMD21_Dev_Board"
-				(path "/1a1c72da-99f5-4976-b608-38ee505f2b67"
-					(reference "#PWR052")
 					(unit 1)
 				)
 			)
@@ -17269,72 +17095,6 @@
 			(project "SAMD21_Dev_Board"
 				(path "/1a1c72da-99f5-4976-b608-38ee505f2b67"
 					(reference "#PWR03")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "power:GND")
-		(at 132.08 214.63 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "788dad51-f2c7-45ac-adf4-577fe730d890")
-		(property "Reference" "#PWR051"
-			(at 132.08 220.98 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "GND"
-			(at 132.08 219.71 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 132.08 214.63 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 132.08 214.63 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 132.08 214.63 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "f25f004b-9f4c-464b-bc09-c93a33b1a4e2")
-		)
-		(instances
-			(project "SAMD21_Dev_Board"
-				(path "/1a1c72da-99f5-4976-b608-38ee505f2b67"
-					(reference "#PWR051")
 					(unit 1)
 				)
 			)
