@@ -10491,9 +10491,9 @@
 			)
 		)
 	)
-	(global_label "D4"
+	(global_label "D13"
 		(shape input)
-		(at 143.51 74.93 180)
+		(at 144.78 74.93 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -10503,7 +10503,7 @@
 		)
 		(uuid "254b4b6a-6b15-4d15-bc24-6b7391bec9d1")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 138.0453 74.93 0)
+			(at 138.1058 74.93 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12097,7 +12097,7 @@
 			)
 		)
 	)
-	(global_label "D13"
+	(global_label "D4"
 		(shape input)
 		(at 29.21 240.03 180)
 		(fields_autoplaced yes)
@@ -12109,7 +12109,7 @@
 		)
 		(uuid "d17e43ae-3287-456e-9587-b793b1eb0fdb")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 22.5358 240.03 0)
+			(at 23.7453 240.03 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13749,18 +13749,17 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "1d00a5b7-82e0-4968-9109-1b3c1b06b871")
 		(property "Reference" "F1"
-			(at 261.62 224.79 90)
+			(at 261.62 225.552 90)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 			)
 		)
-		(property "Value" "500mA"
-			(at 261.62 227.33 90)
+		(property "Value" "2.2A"
+			(at 261.62 228.092 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13795,7 +13794,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "C883126"
+		(property "MPN" "C89654"
 			(at 261.62 231.14 0)
 			(effects
 				(font
