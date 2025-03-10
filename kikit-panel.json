@@ -1,0 +1,42 @@
+{
+    "layout": {
+        "type": "grid",
+        "rows": "2",
+        "cols": "2",
+        "rotation": "90deg"
+    },
+    "text": {
+        "type": "simple",
+        "text": "{boardTitle} (Rev{boardRevision})",
+        "anchor": "mt",
+        "voffset": "3.5mm",
+        "hjustify": "center",
+        "vjustify": "center"
+    },
+    "tabs": {
+        "type": "full"
+    },
+    "cuts": {
+        "type": "vcuts",
+        "clearance": "1mm",
+        "linewidth": "0.2mm"
+    },
+    "framing": {
+        "type": "railstb",
+        "width": "5mm",
+        "fillet": "1.5mm"
+    },
+    "tooling": {
+        "type": "4hole",
+        "hoffset": "3.5mm",
+        "voffset": "3.5mm",
+        "size": "3mm"
+    },
+    "fiducials": {
+        "type": "4fid",
+        "coppersize": "1mm",
+        "opening": "2mm",
+        "hoffset": "7mm",
+        "voffset": "3.5mm",
+    }
+}
