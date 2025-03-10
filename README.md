@@ -10,7 +10,7 @@ In the worst case, you might need to tighten few screws on a terminal block.
 All the parts in the Plug-n-Play system communicate via I2C protocol. 
 The connectors between the parts have 6 lines: 2 lines to provide the power (VCC and GND), 2 lines for the I2C communication and additional 2 lines for the interrupts.
 The interrupts are handled by the Event Based Framework ([EBF](https://github.com/4project-co-il/EBF)) in the background. No polling is needed in the software.
-A button pressed? Even function will be called in your code to handle that change.
+A button pressed? Event function will be called in your code to handle that change.
 
 Using the interrupts allows creation of very low-power projects, as well as controllers with fast responding to changes.
 
