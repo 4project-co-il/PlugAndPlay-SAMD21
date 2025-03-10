@@ -1,5 +1,0 @@
-PlugAndPlay SAMD21 Development board
-
-USB connector: LCSC: C2988369 (US$ 0.0641)
-Reset Button: LCSC: C318884 (US$ 0.0077)
-32.768KHz Crystal: LCSC: C620155 (US$ 0.1516)

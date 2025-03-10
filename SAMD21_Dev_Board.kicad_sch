@@ -5,8 +5,9 @@
 	(uuid "1a1c72da-99f5-4976-b608-38ee505f2b67")
 	(paper "A3")
 	(title_block
-		(title "PlugAndPlay SAMD21 Development Board")
+		(title "PlugAndPlay SAMD21 Dev Board")
 		(date "2024-11-11")
+		(rev "2")
 		(company "A.B. Yazamut")
 		(comment 1 "Inspired by SparkFun's SAMD21 Dev and Qwiic Mux")
 	)
@@ -12454,6 +12455,15 @@
 				(hide yes)
 			)
 		)
+		(property "MFG#" ""
+			(at 205.74 137.16 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "cfedbce3-3076-4da1-9f70-9244347813f6")
 		)
@@ -12533,6 +12543,15 @@
 			)
 		)
 		(property "Feeder" "16mm"
+			(at 46.99 210.82 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MFG#" ""
 			(at 46.99 210.82 0)
 			(effects
 				(font
@@ -12631,6 +12650,15 @@
 				(hide yes)
 			)
 		)
+		(property "MFG#" ""
+			(at 39.37 240.03 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "3"
 			(uuid "83737397-eae0-486d-be64-9d79ac69fe6b")
 		)
@@ -12719,6 +12747,15 @@
 				(hide yes)
 			)
 		)
+		(property "MFG#" ""
+			(at 115.57 111.76 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "25b40419-9d62-4068-8162-36d352ea13cd")
 		)
@@ -12796,6 +12833,15 @@
 			)
 		)
 		(property "Feeder" "8mm"
+			(at 161.29 45.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MFG#" ""
 			(at 161.29 45.72 0)
 			(effects
 				(font
@@ -12892,6 +12938,15 @@
 				(hide yes)
 			)
 		)
+		(property "MFG#" ""
+			(at 271.78 238.76 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "2b2badb0-b654-4a54-bd7f-c98a91033fb9")
 		)
@@ -12971,6 +13026,15 @@
 			)
 		)
 		(property "Feeder" "16mm"
+			(at 172.72 100.33 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MFG#" ""
 			(at 172.72 100.33 0)
 			(effects
 				(font
@@ -13145,6 +13209,15 @@
 				(hide yes)
 			)
 		)
+		(property "MFG#" ""
+			(at 236.22 26.67 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "d6962e37-9eb5-4020-9281-480e4ab04e41")
 		)
@@ -13222,6 +13295,15 @@
 			)
 		)
 		(property "Feeder" "8mm"
+			(at 64.77 231.14 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MFG#" ""
 			(at 64.77 231.14 0)
 			(effects
 				(font
@@ -13315,6 +13397,15 @@
 				(hide yes)
 			)
 		)
+		(property "MFG#" ""
+			(at 207.01 31.75 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "a2baca38-f0f5-4a9f-97a5-1b041d56ace7")
 		)
@@ -13394,6 +13485,15 @@
 			)
 		)
 		(property "Feeder" "16mm"
+			(at 72.39 157.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MFG#" ""
 			(at 72.39 157.48 0)
 			(effects
 				(font
@@ -13493,6 +13593,15 @@
 				(hide yes)
 			)
 		)
+		(property "MFG#" ""
+			(at 161.29 144.78 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "ce920b14-4293-4e87-8ead-2b95301a2b56")
 		)
@@ -13571,6 +13680,15 @@
 			)
 		)
 		(property "Feeder" "8mm"
+			(at 261.62 231.14 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MFG#" ""
 			(at 261.62 231.14 0)
 			(effects
 				(font
@@ -13787,6 +13905,15 @@
 			)
 		)
 		(property "Feeder" "8mm"
+			(at 115.57 78.74 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MFG#" ""
 			(at 115.57 78.74 0)
 			(effects
 				(font
@@ -14012,6 +14139,15 @@
 				(hide yes)
 			)
 		)
+		(property "MFG#" ""
+			(at 153.67 128.27 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "1ca80714-1151-4cb7-8a7d-82f4ed304491")
 		)
@@ -14092,6 +14228,15 @@
 			)
 		)
 		(property "Feeder" "8mm"
+			(at 31.75 123.19 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MFG#" ""
 			(at 31.75 123.19 0)
 			(effects
 				(font
@@ -14242,6 +14387,15 @@
 			)
 		)
 		(property "Feeder" "8mm"
+			(at 207.01 39.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MFG#" ""
 			(at 207.01 39.37 0)
 			(effects
 				(font
@@ -14471,6 +14625,15 @@
 			)
 		)
 		(property "Feeder" "8mm"
+			(at 105.41 29.21 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MFG#" ""
 			(at 105.41 29.21 0)
 			(effects
 				(font
@@ -14826,6 +14989,15 @@
 				(hide yes)
 			)
 		)
+		(property "MFG#" ""
+			(at 107.95 128.27 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "1f73996e-3996-49dd-8e6c-3210d56cf18f")
 		)
@@ -14906,6 +15078,15 @@
 			)
 		)
 		(property "Feeder" "8mm"
+			(at 105.41 128.27 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MFG#" ""
 			(at 105.41 128.27 0)
 			(effects
 				(font
@@ -14999,6 +15180,15 @@
 				(hide yes)
 			)
 		)
+		(property "MFG#" ""
+			(at 254 238.76 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "a430b077-50ce-405f-a519-648422e15de9")
 		)
@@ -15078,6 +15268,15 @@
 			)
 		)
 		(property "Feeder" "24mm"
+			(at 99.06 205.74 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MFG#" ""
 			(at 99.06 205.74 0)
 			(effects
 				(font
@@ -15249,6 +15448,15 @@
 				(hide yes)
 			)
 		)
+		(property "MFG#" ""
+			(at 212.09 132.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "1d66c871-4370-4c7b-9f4d-966b6ba15634")
 		)
@@ -15393,6 +15601,15 @@
 			)
 		)
 		(property "Feeder" "24mm"
+			(at 120.65 205.74 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MFG#" ""
 			(at 120.65 205.74 0)
 			(effects
 				(font
@@ -15565,6 +15782,15 @@
 				(hide yes)
 			)
 		)
+		(property "MFG#" ""
+			(at 39.37 31.75 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "06135ec2-ce3d-4869-a001-a535beedf6bd")
 		)
@@ -15653,6 +15879,15 @@
 				(hide yes)
 			)
 		)
+		(property "MFG#" ""
+			(at 41.91 58.42 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "9e3c622f-f72c-490f-98d3-70dc86170ead")
 		)
@@ -15733,6 +15968,15 @@
 			)
 		)
 		(property "Feeder" "8mm"
+			(at 151.13 29.21 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MFG#" ""
 			(at 151.13 29.21 0)
 			(effects
 				(font
@@ -15895,6 +16139,15 @@
 				(hide yes)
 			)
 		)
+		(property "MFG#" ""
+			(at 215.9 35.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "760f2d99-f353-43ff-865b-a81c52f58bbf")
 		)
@@ -16047,6 +16300,15 @@
 				(hide yes)
 			)
 		)
+		(property "MFG#" ""
+			(at 107.95 95.25 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "6805718d-ba2b-4460-b8a6-5451f63e286a")
 		)
@@ -16124,6 +16386,15 @@
 			)
 		)
 		(property "Feeder" "8mm"
+			(at 54.61 231.14 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MFG#" ""
 			(at 54.61 231.14 0)
 			(effects
 				(font
@@ -16490,6 +16761,15 @@
 				(hide yes)
 			)
 		)
+		(property "MFG#" ""
+			(at 153.67 62.23 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "8ca5b92f-3786-4141-8937-a33c22c8048b")
 		)
@@ -16569,6 +16849,15 @@
 			)
 		)
 		(property "Feeder" "16mm"
+			(at 127 133.35 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MFG#" ""
 			(at 127 133.35 0)
 			(effects
 				(font
@@ -16669,6 +16958,15 @@
 			)
 		)
 		(property "Feeder" "8mm"
+			(at 105.41 62.23 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MFG#" ""
 			(at 105.41 62.23 0)
 			(effects
 				(font
@@ -16957,6 +17255,15 @@
 				(hide yes)
 			)
 		)
+		(property "MFG#" ""
+			(at 115.57 45.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "336e0168-9060-462e-a624-8510d1ca3f09")
 		)
@@ -17102,6 +17409,15 @@
 			)
 		)
 		(property "Feeder" "8mm"
+			(at 107.95 62.23 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MFG#" ""
 			(at 107.95 62.23 0)
 			(effects
 				(font
@@ -17322,6 +17638,15 @@
 			)
 		)
 		(property "Feeder" ""
+			(at 80.01 234.95 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MFG#" ""
 			(at 80.01 234.95 0)
 			(effects
 				(font
@@ -17611,6 +17936,15 @@
 				(hide yes)
 			)
 		)
+		(property "MFG#" ""
+			(at 41.91 262.89 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "fbb24241-326a-43b3-9c61-a71c7373f563")
 		)
@@ -17690,6 +18024,15 @@
 			)
 		)
 		(property "Feeder" "16mm"
+			(at 172.72 133.35 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MFG#" ""
 			(at 172.72 133.35 0)
 			(effects
 				(font
@@ -17852,6 +18195,15 @@
 			)
 		)
 		(property "Feeder" "8mm"
+			(at 41.91 273.05 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MFG#" ""
 			(at 41.91 273.05 0)
 			(effects
 				(font
@@ -18079,6 +18431,15 @@
 				(hide yes)
 			)
 		)
+		(property "MFG#" ""
+			(at 35.56 31.75 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "f6cf620f-bc63-4381-a207-29e47e796d48")
 		)
@@ -18296,6 +18657,15 @@
 				(hide yes)
 			)
 		)
+		(property "MFG#" ""
+			(at 107.95 29.21 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "8470cef2-cf1f-43c9-9762-41f868b8b2ab")
 		)
@@ -18375,6 +18745,15 @@
 			)
 		)
 		(property "Feeder" "24mm"
+			(at 86.36 205.74 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MFG#" ""
 			(at 86.36 205.74 0)
 			(effects
 				(font
@@ -18545,6 +18924,15 @@
 				(hide yes)
 			)
 		)
+		(property "MFG#" ""
+			(at 248.92 26.67 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "f76d0d78-9488-4e51-8210-334a7f1007c7")
 		)
@@ -18690,6 +19078,15 @@
 			)
 		)
 		(property "Feeder" "Tray"
+			(at 243.84 85.09 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MFG#" ""
 			(at 243.84 85.09 0)
 			(effects
 				(font
@@ -18980,6 +19377,15 @@
 			)
 		)
 		(property "Feeder" "16mm"
+			(at 127 67.31 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MFG#" ""
 			(at 127 67.31 0)
 			(effects
 				(font
@@ -19348,6 +19754,15 @@
 				(hide yes)
 			)
 		)
+		(property "MFG#" ""
+			(at 161.29 78.74 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "803fc79a-9783-4b8b-b0a3-128a60dea59b")
 		)
@@ -19427,6 +19842,15 @@
 			)
 		)
 		(property "Feeder" "8mm"
+			(at 255.27 26.67 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MFG#" ""
 			(at 255.27 26.67 0)
 			(effects
 				(font
@@ -19522,6 +19946,15 @@
 				(hide yes)
 			)
 		)
+		(property "MFG#" ""
+			(at 153.67 29.21 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "5a1faadb-fb94-422f-8fb7-a527455524f0")
 		)
@@ -19602,6 +20035,15 @@
 			)
 		)
 		(property "Feeder" "8mm"
+			(at 33.02 245.11 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MFG#" ""
 			(at 33.02 245.11 0)
 			(effects
 				(font
@@ -19836,6 +20278,15 @@
 				(hide yes)
 			)
 		)
+		(property "MFG#" ""
+			(at 54.61 234.95 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "cf802530-af07-450e-8d39-0f03c4821540")
 		)
@@ -19916,6 +20367,15 @@
 			)
 		)
 		(property "Feeder" "8mm"
+			(at 151.13 95.25 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MFG#" ""
 			(at 151.13 95.25 0)
 			(effects
 				(font
@@ -20067,6 +20527,15 @@
 			)
 		)
 		(property "Feeder" ""
+			(at 45.72 231.14 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MFG#" ""
 			(at 45.72 231.14 0)
 			(effects
 				(font
@@ -20294,6 +20763,15 @@
 				(hide yes)
 			)
 		)
+		(property "MFG#" ""
+			(at 127 100.33 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "4"
 			(uuid "6581fd52-ab7e-4c12-9d7f-b5c7dbeba8e6")
 		)
@@ -20384,6 +20862,15 @@
 			)
 		)
 		(property "Feeder" "12mm"
+			(at 275.59 231.14 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MFG#" ""
 			(at 275.59 231.14 0)
 			(effects
 				(font
@@ -20609,6 +21096,15 @@
 				(hide yes)
 			)
 		)
+		(property "MFG#" ""
+			(at 52.07 262.89 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "c7178819-1957-4e20-b35b-1e79008aa49a")
 		)
@@ -20752,6 +21248,15 @@
 			)
 		)
 		(property "Feeder" "24mm"
+			(at 29.21 207.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MFG#" ""
 			(at 29.21 207.01 0)
 			(effects
 				(font
@@ -20983,6 +21488,15 @@
 				(hide yes)
 			)
 		)
+		(property "MFG#" ""
+			(at 72.39 172.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "bf727eb3-f20e-4696-aac4-40862660fa7b")
 		)
@@ -21073,6 +21587,15 @@
 			)
 		)
 		(property "Feeder" "24mm"
+			(at 227.33 248.92 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MFG#" ""
 			(at 227.33 248.92 0)
 			(effects
 				(font
@@ -21213,6 +21736,15 @@
 				(hide yes)
 			)
 		)
+		(property "MFG#" ""
+			(at 127 34.29 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "4"
 			(uuid "5c5bb026-0d2a-41b3-a9c0-108ca6b22490")
 		)
@@ -21304,6 +21836,15 @@
 			)
 		)
 		(property "Feeder" "16mm"
+			(at 172.72 34.29 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MFG#" ""
 			(at 172.72 34.29 0)
 			(effects
 				(font
@@ -21478,6 +22019,15 @@
 				(hide yes)
 			)
 		)
+		(property "MFG#" ""
+			(at 57.15 123.19 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "9db756e0-12cc-4b5a-8c25-abe6209d3959")
 		)
@@ -21584,6 +22134,15 @@
 				(hide yes)
 			)
 		)
+		(property "MFG#" ""
+			(at 151.13 62.23 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "45d11302-c72d-413c-ba01-a4fb41a1e2f2")
 		)
@@ -21661,6 +22220,15 @@
 			)
 		)
 		(property "Feeder" "8mm"
+			(at 52.07 273.05 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MFG#" ""
 			(at 52.07 273.05 0)
 			(effects
 				(font
@@ -21749,6 +22317,15 @@
 			)
 		)
 		(property "Feeder" "16mm"
+			(at 57.15 58.42 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MFG#" ""
 			(at 57.15 58.42 0)
 			(effects
 				(font
@@ -21911,6 +22488,15 @@
 				(hide yes)
 			)
 		)
+		(property "MFG#" ""
+			(at 161.29 251.46 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "57162837-fc56-41b7-b673-2b0a7a5a85f0")
 		)
@@ -22014,6 +22600,15 @@
 			)
 		)
 		(property "Feeder" "24mm"
+			(at 64.77 205.74 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MFG#" ""
 			(at 64.77 205.74 0)
 			(effects
 				(font
@@ -22316,6 +22911,15 @@
 				(hide yes)
 			)
 		)
+		(property "MFG#" ""
+			(at 151.13 128.27 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "1549f7d3-2228-4eb6-931b-ecc32a54f13a")
 		)
@@ -22393,6 +22997,15 @@
 			)
 		)
 		(property "Feeder" "8mm"
+			(at 161.29 111.76 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MFG#" ""
 			(at 161.29 111.76 0)
 			(effects
 				(font
@@ -22551,6 +23164,15 @@
 				(hide yes)
 			)
 		)
+		(property "MFG#" ""
+			(at 115.57 144.78 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "81003b4b-b75c-4495-ab68-a5c0b55f5b6e")
 		)
@@ -22628,6 +23250,15 @@
 			)
 		)
 		(property "Feeder" "8mm"
+			(at 261.62 241.3 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MFG#" ""
 			(at 261.62 241.3 0)
 			(effects
 				(font
@@ -22723,6 +23354,15 @@
 				(hide yes)
 			)
 		)
+		(property "MFG#" ""
+			(at 242.57 26.67 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "17ab784b-42f5-458b-a976-c46dbca8d2f9")
 		)
@@ -22802,6 +23442,15 @@
 			)
 		)
 		(property "Feeder" "16mm"
+			(at 172.72 67.31 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MFG#" ""
 			(at 172.72 67.31 0)
 			(effects
 				(font
@@ -22901,6 +23550,15 @@
 			)
 		)
 		(property "Feeder" "8mm"
+			(at 153.67 95.25 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MFG#" ""
 			(at 153.67 95.25 0)
 			(effects
 				(font
@@ -23062,6 +23720,15 @@
 				(hide yes)
 			)
 		)
+		(property "MFG#" ""
+			(at 29.21 82.55 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "033f8002-6aa6-4b38-98b5-299e0b3b6209")
 		)
@@ -23141,6 +23808,15 @@
 			)
 		)
 		(property "Feeder" "8mm"
+			(at 261.62 26.67 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MFG#" ""
 			(at 261.62 26.67 0)
 			(effects
 				(font
@@ -23359,6 +24035,15 @@
 			)
 		)
 		(property "Feeder" "8mm"
+			(at 105.41 95.25 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MFG#" ""
 			(at 105.41 95.25 0)
 			(effects
 				(font
