@@ -1,6 +1,8 @@
 *-backups/
 ~*
 *.csv
+*.ods
+*.xls
 *.zip
 Gerber/*
 __pycache__/*
