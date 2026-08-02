@@ -22,7 +22,7 @@
         "linewidth": "0.2mm"
     },
     "framing": {
-        "type": "railstb",
+        "type": "frame",
         "width": "5mm",
         "fillet": "1.5mm"
     },
@@ -36,7 +36,7 @@
         "type": "4fid",
         "coppersize": "1mm",
         "opening": "2mm",
-        "hoffset": "7mm",
+        "hoffset": "9mm",
         "voffset": "3.5mm",
     }
 }
