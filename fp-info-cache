@@ -1,4 +1,4 @@
-24619799406244792
+24623286350873184
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -65596,6 +65596,20 @@ Library
 0
 0
 0
+Library
+PinHeader_1x02_P2.54mm_Horizontal_SMD
+Horizontal SMD Single Row 2.54mm (0.1 inch) Pitch PCB Connector
+
+0
+2
+2
+Library
+PinHeader_1x06_P2.54mm_Horizontal_SMD
+Horizontal SMD Single Row 2.54mm (0.1 inch) Pitch PCB Connector
+
+0
+6
+6
 Library
 PinSocket_1x04_P2.54mm_Vertical_SMD_Pin1Left
 surface-mounted straight socket strip, 1x04, 2.54mm pitch, single row, style 1 (pin 1 left) (https://cdn.harwin.com/pdfs/M20-786.pdf), script generated

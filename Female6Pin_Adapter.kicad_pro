@@ -48,7 +48,7 @@
         "silk_text_thickness": 0.1,
         "silk_text_upright": false,
         "zones": {
-          "min_clearance": 0.6
+          "min_clearance": 0.5
         }
       },
       "diff_pair_dimensions": [
@@ -453,7 +453,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "SAMD21_Dev_Board.kicad_pro",
+    "filename": "Female6Pin_Adapter.kicad_pro",
     "version": 1
   },
   "net_settings": {
@@ -499,7 +499,7 @@
   },
   "schematic": {
     "annotate_start_num": 0,
-    "bom_export_filename": "/home/alex/Workspace/KiCad/PlugAndPlay/SAMD21_Dev_Board/SAMD21_Dev_Board.csv",
+    "bom_export_filename": "Female6Pin_Adapter.csv",
     "bom_fmt_presets": [],
     "bom_fmt_settings": {
       "field_delimiter": ",",
@@ -554,12 +554,6 @@
           "group_by": false,
           "label": "#",
           "name": "${ITEM_NUMBER}",
-          "show": false
-        },
-        {
-          "group_by": false,
-          "label": "MFG#",
-          "name": "MFG#",
           "show": false
         },
         {
