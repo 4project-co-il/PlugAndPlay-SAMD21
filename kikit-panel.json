@@ -5,6 +5,10 @@
         "cols": "2",
         "rotation": "90deg"
     },
+    "source": {
+        "type": "auto",
+        "tolerance": "10mm"
+    },
     "text": {
         "type": "simple",
         "text": "{boardTitle} (Rev{boardRevision})",

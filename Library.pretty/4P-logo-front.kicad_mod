@@ -1,7 +1,7 @@
 (footprint "4P-logo-front"
-	(version 20240108)
+	(version 20241229)
 	(generator "pcbnew")
-	(generator_version "8.0")
+	(generator_version "9.0")
 	(layer "F.Cu")
 	(property "Reference" "G***"
 		(at 0.01246 0 0)
@@ -24,18 +24,6 @@
 			(font
 				(size 1.5 1.5)
 				(thickness 0.3)
-			)
-		)
-	)
-	(property "Footprint" ""
-		(at 0 0 0)
-		(layer "F.Fab")
-		(hide yes)
-		(uuid "b6ff80fe-6de8-473c-8de9-b521851f868e")
-		(effects
-			(font
-				(size 1.27 1.27)
-				(thickness 0.15)
 			)
 		)
 	)
@@ -73,8 +61,8 @@
 			(width 0)
 			(type solid)
 		)
-		(fill solid)
-		(layer "F.SilkS")
+		(fill yes)
+		(layer "B.SilkS")
 		(uuid "6124a60c-67cb-4799-8cf1-c6a0e3438935")
 	)
 	(fp_poly
@@ -89,8 +77,8 @@
 			(width 0)
 			(type solid)
 		)
-		(fill solid)
-		(layer "F.SilkS")
+		(fill yes)
+		(layer "B.SilkS")
 		(uuid "186fd7fe-92f4-4ab8-94cb-959c72ec815a")
 	)
 	(fp_poly
@@ -108,8 +96,8 @@
 			(width 0)
 			(type solid)
 		)
-		(fill solid)
-		(layer "F.SilkS")
+		(fill yes)
+		(layer "B.SilkS")
 		(uuid "ae5a7480-b20a-474f-922c-0b269879fc9d")
 	)
 	(fp_poly
@@ -130,8 +118,8 @@
 			(width 0)
 			(type solid)
 		)
-		(fill solid)
-		(layer "F.SilkS")
+		(fill yes)
+		(layer "B.SilkS")
 		(uuid "a6442fc6-738f-4eb1-a3f1-67c23e40b3d8")
 	)
 	(fp_poly
@@ -152,8 +140,8 @@
 			(width 0)
 			(type solid)
 		)
-		(fill solid)
-		(layer "F.SilkS")
+		(fill yes)
+		(layer "B.SilkS")
 		(uuid "eab46f18-af14-484b-846e-f153ec99ecdc")
 	)
 	(fp_poly
@@ -182,8 +170,8 @@
 			(width 0)
 			(type solid)
 		)
-		(fill solid)
-		(layer "F.SilkS")
+		(fill yes)
+		(layer "B.SilkS")
 		(uuid "a879b460-a6e3-4257-a05f-50e01e47cb74")
 	)
 	(fp_poly
@@ -213,8 +201,8 @@
 			(width 0)
 			(type solid)
 		)
-		(fill solid)
-		(layer "F.SilkS")
+		(fill yes)
+		(layer "B.SilkS")
 		(uuid "538a5dc0-c01c-4144-a0d2-a2e89b5b873d")
 	)
 	(fp_poly
@@ -251,8 +239,8 @@
 			(width 0)
 			(type solid)
 		)
-		(fill solid)
-		(layer "F.SilkS")
+		(fill yes)
+		(layer "B.SilkS")
 		(uuid "d50631ee-15fe-4371-b031-c51082307ffc")
 	)
 	(fp_poly
@@ -303,8 +291,9 @@
 			(width 0)
 			(type solid)
 		)
-		(fill solid)
-		(layer "F.SilkS")
+		(fill yes)
+		(layer "B.SilkS")
 		(uuid "702acb03-58da-4419-b04d-5390bdb18ff7")
 	)
+	(embedded_fonts no)
 )
