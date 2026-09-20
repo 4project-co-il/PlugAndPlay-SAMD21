@@ -1,4 +1,5 @@
 (fp_lib_table
   (version 7)
   (lib (name "Library")(type "KiCad")(uri "${KIPRJMOD}/Library.pretty")(options "")(descr ""))
+  (lib (name "PnP_Library")(type "KiCad")(uri "/home/alex/Workspace/Plug-n-Play/Hardware/FootprintLibrary.pretty")(options "")(descr ""))
 )

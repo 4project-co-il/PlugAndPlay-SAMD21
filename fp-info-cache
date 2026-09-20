@@ -1,4 +1,4 @@
-27426677751494544
+27454929981476389
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -94139,6 +94139,118 @@ Panelization
 MouseBite-Slot_2.54x5.08mm_on-edge_D0.5mm_P0.85mm_5h_Trace
 Break slot 2.54mm, standard: L=5.08mm, holes on-edge: acceptable, room for traces
 mousebite stamp slot break tab 2mm edge on-edge
+0
+0
+0
+PnP_Library
+4P-logo-front
+
+
+0
+0
+0
+PnP_Library
+PinSocket_1x02_P2.54mm_Vertical_SMD_Pin1Right
+surface-mounted straight socket strip, 1x02, 2.54mm pitch, single row, style 2 (pin 1 right) (https://cdn.harwin.com/pdfs/M20-786.pdf), script generated
+Surface mounted socket strip SMD 1x02 2.54mm single row style2 pin1 right
+0
+4
+2
+PnP_Library
+PinSocket_1x04_P2.54mm_Vertical_SMD_Pin1Left
+surface-mounted straight socket strip, 1x04, 2.54mm pitch, single row, style 1 (pin 1 left) (https://cdn.harwin.com/pdfs/M20-786.pdf), script generated
+Surface mounted socket strip SMD 1x04 2.54mm single row style1 pin1 left
+0
+12
+4
+PnP_Library
+PinSocket_1x04_P2.54mm_Vertical_SMD_Pin1Right
+surface-mounted straight socket strip, 1x04, 2.54mm pitch, single row, style 2 (pin 1 right) (https://cdn.harwin.com/pdfs/M20-786.pdf), script generated
+Surface mounted socket strip SMD 1x04 2.54mm single row style2 pin1 right
+0
+8
+4
+PnP_Library
+PinSocket_1x05_P2.54mm_Vertical_SMD_Pin1Left
+surface-mounted straight socket strip, 1x05, 2.54mm pitch, single row, style 1 (pin 1 left) (https://cdn.harwin.com/pdfs/M20-786.pdf), script generated
+Surface mounted socket strip SMD 1x05 2.54mm single row style1 pin1 left
+0
+10
+5
+PnP_Library
+PinSocket_1x05_P2.54mm_Vertical_SMD_Pin1Right
+surface-mounted straight socket strip, 1x05, 2.54mm pitch, single row, style 2 (pin 1 right) (https://cdn.harwin.com/pdfs/M20-786.pdf), script generated
+Surface mounted socket strip SMD 1x05 2.54mm single row style2 pin1 right
+0
+10
+5
+PnP_Library
+PinSocket_2x05_P2.54mm_Vertical_SMD
+surface-mounted straight socket strip, 2x05, 2.54mm pitch, double cols (from Kicad 4.0.7), script generated
+Surface mounted socket strip SMD 2x05 2.54mm double row
+0
+20
+10
+PnP_Library
+PinSocket_2x06_P2.54mm_Vertical_SMD
+surface-mounted straight socket strip, 2x06, 2.54mm pitch, double cols (from Kicad 4.0.7), script generated
+Surface mounted socket strip SMD 2x06 2.54mm double row
+0
+24
+12
+PnP_Library
+PogoPinsPads_1x04_P2.5mm
+Through hole straight socket strip, 1x04, 2.54mm pitch, single row (from Kicad 4.0.7), script generated
+Through hole socket strip THT 1x04 2.54mm single row
+0
+4
+4
+PnP_Library
+SMD-CBI-5mm
+
+SparkFun SMD 5mm Light Pipe Circuit Board Indicator
+0
+0
+0
+PnP_Library
+SMD-CBI-5mm-4Gang
+
+
+0
+0
+0
+PnP_Library
+SOT23-8_5X3_TEX
+
+LP5815DRLR 
+0
+8
+8
+PnP_Library
+SW_Slide_SPDT_Straight_3.0mm
+CuK miniature slide switch, OS series, SPDT, https://www.ckswitches.com/media/1428/os.pdf
+switch SPDT
+0
+5
+3
+PnP_Library
+UDFN-6L_2X2X0P5_STM
+
+STTS22HTR 
+0
+7
+7
+PnP_Library
+USB_C_Receptacle_G-Switch_GT-USB-7010ASV
+USB Type C, right-angle, SMT, https://datasheet.lcsc.com/lcsc/2204071530_G-Switch-GT-USB-7010ASV_C2988369.pdf
+USB C Type-C Receptacle SMD
+0
+20
+17
+PnP_Library
+made-in-israel-logo
+
+
 0
 0
 0

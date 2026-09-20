@@ -1,7 +1,7 @@
 (footprint "PinSocket_1x04_P2.54mm_Vertical_SMD_Pin1Right"
-	(version 20240108)
+	(version 20241229)
 	(generator "pcbnew")
-	(generator_version "8.0")
+	(generator_version "9.0")
 	(layer "F.Cu")
 	(descr "surface-mounted straight socket strip, 1x04, 2.54mm pitch, single row, style 2 (pin 1 right) (https://cdn.harwin.com/pdfs/M20-786.pdf), script generated")
 	(tags "Surface mounted socket strip SMD 1x04 2.54mm single row style2 pin1 right")
@@ -23,18 +23,6 @@
 		(effects
 			(font
 				(size 1 1)
-				(thickness 0.15)
-			)
-		)
-	)
-	(property "Footprint" "Connector_PinSocket_2.54mm:PinSocket_1x04_P2.54mm_Vertical_SMD_Pin1Right"
-		(at 0 0 180)
-		(layer "F.Fab")
-		(hide yes)
-		(uuid "308a5ada-b663-4645-a92b-335c5c6a475d")
-		(effects
-			(font
-				(size 1.27 1.27)
 				(thickness 0.15)
 			)
 		)
@@ -365,7 +353,7 @@
 		(uuid "57c83b97-3c23-432a-b071-014442ed2f34")
 	)
 	(fp_text user "${REFERENCE}"
-		(at 0 0 -90)
+		(at 0 0 270)
 		(layer "F.Fab")
 		(uuid "5bb42266-0bc4-4983-92f8-245831207e62")
 		(effects
@@ -378,7 +366,7 @@
 	(pad "1" thru_hole roundrect
 		(at 0 -3.81)
 		(size 1.8 1.2)
-		(drill 0.9)
+		(drill 1)
 		(layers "*.Cu" "*.Mask")
 		(remove_unused_layers no)
 		(roundrect_rratio 0.2083333333)
@@ -387,19 +375,21 @@
 	(pad "1" smd rect
 		(at 1.65 -3.81)
 		(size 1.9 1)
-		(layers "F.Cu" "F.Paste" "F.Mask")
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(solder_paste_margin_ratio 0.1)
 		(uuid "9c0cd0b4-6d06-43ba-a847-af8c67ab1f6e")
 	)
 	(pad "2" smd rect
 		(at -1.65 -1.27)
 		(size 1.9 1)
-		(layers "F.Cu" "F.Paste" "F.Mask")
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(solder_paste_margin_ratio 0.1)
 		(uuid "74c7a49e-a8cd-46b7-8871-188f446d5cdd")
 	)
 	(pad "2" thru_hole roundrect
 		(at 0 -1.27)
 		(size 1.8 1.2)
-		(drill 0.9)
+		(drill 1)
 		(layers "*.Cu" "*.Mask")
 		(remove_unused_layers no)
 		(roundrect_rratio 0.2083333333)
@@ -408,7 +398,7 @@
 	(pad "3" thru_hole roundrect
 		(at 0 1.27)
 		(size 1.8 1.2)
-		(drill 0.9)
+		(drill 1)
 		(layers "*.Cu" "*.Mask")
 		(remove_unused_layers no)
 		(roundrect_rratio 0.2083333333)
@@ -417,24 +407,27 @@
 	(pad "3" smd rect
 		(at 1.65 1.27)
 		(size 1.9 1)
-		(layers "F.Cu" "F.Paste" "F.Mask")
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(solder_paste_margin_ratio 0.1)
 		(uuid "e06314b0-7ccd-4793-bfc7-7cd341a7ba7c")
 	)
 	(pad "4" smd rect
 		(at -1.65 3.81)
 		(size 1.9 1)
-		(layers "F.Cu" "F.Paste" "F.Mask")
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(solder_paste_margin_ratio 0.1)
 		(uuid "b97d8058-1781-40f3-b7b1-aae25f2e82d9")
 	)
 	(pad "4" thru_hole roundrect
 		(at 0 3.81)
 		(size 1.8 1.2)
-		(drill 0.9)
+		(drill 1)
 		(layers "*.Cu" "*.Mask")
 		(remove_unused_layers no)
 		(roundrect_rratio 0.2083333333)
 		(uuid "24432743-8d64-440b-9a4c-3065239d19f4")
 	)
+	(embedded_fonts no)
 	(model "${KICAD6_3DMODEL_DIR}/Connector_PinSocket_2.54mm.3dshapes/PinSocket_1x04_P2.54mm_Vertical_SMD_Pin1Right.wrl"
 		(offset
 			(xyz 0 0 0)
